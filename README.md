@@ -1,2 +1,3 @@
-# ffs-UCGNet
-few-shot semantic segmentation
+# UCGNet
+Uncertainty Contrastive Guidance for Few-Shot Semantic Segmentation
+
