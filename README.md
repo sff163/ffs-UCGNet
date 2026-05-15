@@ -8,7 +8,7 @@ This repo contains the code for our paper "Uncertainty Contrastive Guidance for 
 
 ## Overview
 <div align="center">
-<img width="600" alt="image" src="figs/module.png">
+<img width="800" alt="image" src="figs/module.png">
 </div>
 
 ## Get Started 
